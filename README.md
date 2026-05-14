@@ -5,8 +5,6 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&pause=1000&color=d4c878&width=435&lines=hello+world.+I'm+thais!" alt="Typing SVG" /></a>
         <img src="https://img.shields.io/badge/status-open%20to%20work-7ab88a?style=flat-square&labelColor=0d0d0d&color=7ab88a" alt="status: open to work" align="right" />
         <br>
-        <sub>full-stack development &nbsp;·&nbsp; 23y &nbsp;·&nbsp; mg, 🇧🇷</sub>
-        <br>
         <br>
       </div>
 
