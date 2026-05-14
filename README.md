@@ -37,7 +37,7 @@
     </td>
     <td>
       <br>
-      <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" width="350">
+      <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" width="300">
     </td>
   </tr>
 </table>
