@@ -1,38 +1,43 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=24&pause=1000&color=800080&center=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9" alt="Typing SVG">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&pause=1000&color=d4c878&width=435&lines=hello+world.+I'm+thais!" alt="Typing SVG" /></a>
+        <img src="https://img.shields.io/badge/status-open%20to%20work-7ab88a?style=flat-square&labelColor=0d0d0d&color=7ab88a" alt="status: open to work"/>
+        <br>
+        <sub>full-stack development &nbsp;·&nbsp; 23y &nbsp;·&nbsp; mg, 🇧🇷</sub>
+        <br>
+        <br>
+      </div>
 
-#
+  [**about**]
+    
+  a software engineering student who enjoys building web applications and understanding how things work behind the interface. 
+  currently building projects, learning new technologies and looking for my first opportunity as a developer.
+    
+  [**stacks**]
 
-<img src="https://media1.tenor.com/m/e9r63DOA1w8AAAAd/maxwell-cat-link-zelda.gif" align="right" alt="" height="200px">
 
-<div align="center">
+  ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=d4c878)
+  ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=d4c878)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=d4c878)
+  ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=d4c878)
+  ![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=d4c878)
+  ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=d4c878)
+  ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=d4c878)
+  ![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=d4c878)
 
-### Languages and Technologies
 
-<div>
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5"> 
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3"> 
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript"> 
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python"> 
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java"> <br>
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTMAN-button.png" height="28" alt="Postman"> 
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
-</div>
-
-### Connect with me!
-
-<a href="mailto:thaiserica1304@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>
-<a target="_blank" href="https://www.linkedin.com/in/thaislaine-reis/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
-
-#
-
-<picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/httpthaes/httpthaes/blob/output/github-contribution-grid-snake-dark.svg" /> 
-    <img alt="github snake" src="https://github.com/httpthaes/httpthaes/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+  [**connect**]
+   
+  [![gmail](https://img.shields.io/badge/gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=d4c878)](mailto:thaiserica1304@gmail.com)
+  [![linkedin](https://img.shields.io/badge/linkedin-0d0d0d?style=flat-square&logo=linkedin&logoColor=d4c878)](https://linkedin.com/in/thaislaine-reis)
+  
+  _
+    </td>
+    <td>
+      <br>
+      <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" width="350">
+    </td>
+  </tr>
+</table>
